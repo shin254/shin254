@@ -1,25 +1,19 @@
 <div align="center">
 
-# ⚡ CRYSTAL ARESS (@shin254) ⚡
-### 🚀 PRINCIPAL SYSTEMS ARCHITECT & AUTONOMOUS FULL-STACK AI / DEVOPS ENGINEER 🚀
+# CRYSTAL ARESS (@shin254)
+### PRINCIPAL SYSTEMS ARCHITECT | AUTONOMOUS FULL-STACK AI & DEVOPS ENGINEER
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=780&height=80&lines=Crystal+Aress+%E2%80%A2+Principal+Systems+Architect+%E2%80%A2+DevOps+Specialist;Building+Resilient+High-Throughput+Systems+%26+Zero-Loss+Fault+Tolerance;Mastering+Autonomous+Agentic+Workflows+%26+Realtime+Event+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=780&height=80&lines=Crystal+Aress+--+Principal+Systems+Architect;High-Throughput+Distributed+Systems+%26+Zero-Loss+Data+Integrity;Autonomous+Agentic+Pipelines+%26+Sub-Millisecond+Realtime+Engine" alt="Typing Banner" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Engineering_High--Performance_Systems-00f2fe?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/Architecture-Modular_Decoupled_Design-ff0844?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Disaster_Recovery-Zero--Loss_Data_Integrity-00ff87?style=for-the-badge&logo=cloudflare&logoColor=black" alt="Disaster Recovery" />
-  <img src="https://img.shields.io/badge/AI_Orchestration-Autonomous_Multi--Agent-7928ca?style=for-the-badge&logo=probot&logoColor=white" alt="AI Orchestration" />
-</p>
-
-<p align="center">
-  <a href="https://shin254.github.io/shin254/">
-    <img src="https://img.shields.io/badge/Live_Showcase-Tailwind_%2B_Lucide_%2B_M_PLUS_1_Code_Dense_UI-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Live Dense UI" />
-  </a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_SYSTEMS_RUNNING-00f2fe?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-MODULAR_CLEAN_DESIGN-ff0844?style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/STORAGE-AUTONOMOUS_CLOUD_ENGINE-00ff87?style=flat-square" alt="Storage" />
+  <img src="https://img.shields.io/badge/UPTIME-99.99%25_HIGH_AVAILABILITY-7928ca?style=flat-square" alt="Uptime" />
 </p>
 
 ---
@@ -28,37 +22,37 @@
 
 <br/>
 
-## 🌌 PROFESSIONAL IDENTITY & CORE COMPETENCIES
+## [01] TECHNICAL IDENTITY MATRIX
 
 ```text
 +---------------------------------------------------------------------------------------------------+
-| TECHNICAL IDENTITY MATRIX                                                                         |
+| PROFILE SPECIFICATION                                                                             |
 +-------------------+-------------------------------------------------------------------------------+
 | Identity          | Crystal Aress (@shin254)                                                      |
 | Professional Role | Principal Systems Architect | Senior Full-Stack & DevOps Engineer             |
 | Core Disciplines  | Distributed Architecture, High-Concurrency Pipelines, Autonomous AI Engine    |
 | Engineering Creed | "Zero Blind-Guessing in Debugging • Zero-Loss in Storage • Modular by Default" |
 | Specializations   | Realtime Event Bus, Linux Systems Hardening, Fault-Tolerant Disaster Recovery  |
-| Storage Paradigm  | Autonomous Cloud Storage & Snapshot Engine (Beyond Traditional VCS)           |
+| Storage Engine    | Shin Drive Autonomous Cloud Snapshot Engine (Beyond Traditional VCS)          |
 +-------------------+-------------------------------------------------------------------------------+
 ```
 
 Tôi là một **Principal Systems Architect & Autonomous Full-Stack AI Engineer** chuyên sâu vào thiết kế kiến trúc phân tán, xử lý tải cao (high-throughput), tối ưu hóa tài nguyên phần cứng Linux và quy hoạch các hệ sinh thái AI Agents tự vận hành độc lập.
 
-Thay vì dựa vào các framework đóng gói sẵn hoặc phụ thuộc vào quy trình VCS thủ công, toàn bộ giải pháp kỹ thuật của tôi tập trung vào **hiệu năng cốt lõi, bảo toàn dữ liệu bằng snapshot đám mây tự động và kiến trúc module hóa tuyệt đối**.
+Toàn bộ giải pháp kỹ thuật tập trung vào **hiệu năng cốt lõi, bảo toàn dữ liệu bằng snapshot đám mây tự động và kiến trúc module hóa tuyệt đối**.
 
 ---
 
-## 🛡️ AUTONOMOUS STORAGE & ZERO-LOSS SNAPSHOT ENGINE (BEYOND GIT WORKFLOW)
+## [02] AUTONOMOUS STORAGE & ZERO-LOSS SNAPSHOT ENGINE (BEYOND GIT WORKFLOW)
 
 ```text
 +---------------------------------------------------------------------------------------------------+
-| AUTONOMOUS CLOUD STORAGE & CONTINUOUS SNAPSHOT PARADIGM                                           |
+| AUTONOMOUS CLOUD STORAGE & CONTINUOUS SNAPSHOT SPECIFICATION                                      |
 +--------------------------+------------------------------------------------------------------------+
-| Kiến trúc thay thế       | Shin Drive Cloud Engine kết hợp Rclone Cloud & Multi-Tier Storage      |
-| Cơ chế snapshot          | Dynamic Exclusion Packing (--exclude node_modules, vendor, cache...)   |
-| Bảo toàn dữ liệu         | SHA-256 Checksum Verification & Automated MySQL DB Pre-Dump            |
-| Khôi phục thảm họa (DR)  | Khôi phục nguyên vẹn 100% môi trường trong < 60s không phụ thuộc VCS   |
+| Architecture Model       | Shin Drive Cloud Engine + Rclone Cloud + Multi-Tier Redundancy         |
+| Snapshot Strategy        | Dynamic Exclusion Packing (--exclude node_modules, vendor, cache...)   |
+| Data Integrity Protocol  | SHA-256 Checksum Verification + Automated MySQL DB Clean Pre-Dump      |
+| Disaster Recovery (DR)   | Instant Hot Standby Rollback in < 60s without Third-Party Dependencies |
 +--------------------------+------------------------------------------------------------------------+
 ```
 
@@ -70,106 +64,70 @@ Hệ thống được vận hành hoàn toàn trên nền tảng **Lưu trữ Đ
 
 ---
 
-## 🛡️ PILLARS OF ENGINEERING EXCELLENCE (NĂNG LỰC KỸ THUẬT CỐT LÕI)
+## [03] PILLARS OF ENGINEERING EXCELLENCE (CORE CAPABILITIES)
 
 ```text
 +---------------------------------------------------------------------------------------------------+
-| 6 TRỤ CỘT NĂNG LỰC KỸ THUẬT CHUYÊN SÂU                                                            |
+| 6 TECHNICAL DISCIPLINES & ARCHITECTURAL FOUNDATIONS                                               |
 +--------------------------+------------------------------------------------------------------------+
-| Phân hệ năng lực         | Năng lực thực chiến & Kỹ thuật chuyên sâu                              |
+| Discipline               | Technical Capabilities & Hardened Implementations                      |
 +--------------------------+------------------------------------------------------------------------+
-| 1. High-Concurrency      | - Thiết kế Deterministic Ingestion Pipelines: Xử lý đa luồng dữ liệu   |
-|    & Realtime Streaming  |   với độ trễ dưới 1 mili-giây (<1ms) không nghẽn tài nguyên.           |
-|                          | - WebSocket Cluster Broadcast: Đồng bộ trạng thái thời gian thực       |
-|                          |   với cơ chế backpressure, heartbeat ping/pong và reconnect an toàn.  |
-|                          | - SQLite WAL Mode & In-Memory Redis: Khai thác tối đa I/O song song.  |
+| 1. High-Concurrency      | - Deterministic Ingestion Pipelines: Sub-millisecond latency (<1ms).    |
+|    & Realtime Streaming  | - WebSocket Cluster Broadcast with backpressure guard and heartbeat.   |
+|                          | - SQLite WAL Mode & In-Memory Redis: Parallel I/O without lockups.     |
 +--------------------------+------------------------------------------------------------------------+
-| 2. Systematic Debugging  | - Thiết lập The Iron Law: 4 pha xử lý sự cố chuẩn mực:                 |
-|    (Điều tra gốc rễ)     |   [Root Cause ➔ Reproduce Test ➔ Fix Design ➔ Regression Verify].    |
-|                          | - Cô lập Memory Leak, Deadlock, CPU Spikes, Unhandled Race Conditions. |
-|                          | - Tuyệt đối không đoán mò, không sửa triệu chứng ngọn.                 |
+| 2. Systematic Debugging  | - The Iron Law: 4-Phase Scientific Protocol:                           |
+|    (Root Cause Analysis) |   [Root Cause -> Reproduce Test -> Fix Design -> Regression Verify].   |
+|                          | - Isolation of Memory Leaks, Deadlocks, CPU Spikes, Race Conditions.   |
+|                          | - Zero blind-guessing, zero superficial symptom patching.              |
 +--------------------------+------------------------------------------------------------------------+
-| 3. Modular Backend       | - Áp dụng kiến trúc Clean Architecture & Domain-Driven Design (DDD).   |
-|    & Decoupled Systems   | - Phân tách 4 lớp bất biến: Controller ➔ Service ➔ Repository ➔ Schema. |
-|                          | - Single Responsibility (SRP): Loại bỏ hoàn toàn monolithic script.    |
-|                          | - Idempotency Key Design: Đảm bảo giao dịch API không bao giờ trùng lặp|
+| 3. Modular Backend       | - Clean Architecture & Domain-Driven Design (DDD).                     |
+|    & Decoupled Systems   | - 4 Immutable Layers: Controller -> Service -> Repository -> Schema.   |
+|                          | - Single Responsibility (SRP): Zero monolith, high cohesion.           |
+|                          | - Idempotency Key Design: Eliminating duplicate transaction anomalies. |
 +--------------------------+------------------------------------------------------------------------+
-| 4. Cloud Infrastructure  | - Linux Hardening & Systemd Daemons: Quản trị tiến trình tự phục hồi.  |
-|    & DevOps Automation   | - Nginx High-Performance Reverse Proxy: SSL tự động (acme.sh/ECC-256), |
-|                          |   Gzip/Brotli compression, Upstream Load Balancing, Rate Limiting.     |
-|                          | - Shin Drive Cloud Engine, Rclone Multi-Cloud Sync, UFW Strict Rules.  |
+| 4. Cloud Infrastructure  | - Linux Hardening & Systemd Supervision: Self-healing process daemons. |
+|    & DevOps Automation   | - Nginx Reverse Proxy: SSL automation (acme.sh ECC-256), rate limiting |
+|                          | - Shin Drive Cloud Engine, Rclone Multi-Cloud Sync, UFW Firewall.      |
 +--------------------------+------------------------------------------------------------------------+
-| 5. Disaster Recovery     | - Zero-Loss Protocol: Cơ chế Snapshot JSON bất biến kèm SHA-256 Hash.  |
-|    & Data Integrity      | - Tự động hóa quy trình Dump CSDL nhất quán trước mọi thao tác deploy. |
+| 5. Disaster Recovery     | - Zero-Loss Protocol: Immutable JSON Snapshots with SHA-256 Checksums. |
+|    & Data Integrity      | - Automated pre-deployment DB dumps (zero schema discrepancy).         |
 |                          | - Multi-tier Backup: Hot Standby Replica, Hourly Diff, Cold Archive.   |
-|                          | - Quy tắc Safe Delete: Bảo vệ dữ liệu với soft-quarantine phục hồi.    |
+|                          | - Soft-quarantine safety rules instead of direct deletion.             |
 +--------------------------+------------------------------------------------------------------------+
-| 6. Autonomous AI Agents  | - Điều phối Multi-Agent Workflows: Phân rã bài toán phức tạp theo pha. |
-|    & Audio Processing    | - Deterministic Structured Outputs: Kiểm soát JSON Schema chặt chẽ.    |
-|                          | - Realtime Neural Audio Queue: Điều phối luồng phát thanh TTS tốc độ   |
-|                          |   cao với hàng đợi ưu tiên (Priority Audio Buffer).                    |
+| 6. Autonomous AI Agents  | - Multi-Agent Workflow Orchestration with partitioned responsibilities.|
+|    & Audio Processing    | - Deterministic Structured Output enforcement via strict JSON Schemas. |
+|                          | - Realtime Neural Audio Queue with priority buffer management.         |
 +--------------------------+------------------------------------------------------------------------+
 ```
 
 ---
 
-## 🛠️ THE TECHNICAL ARSENAL (CÔNG NGHỆ & CÔNG CỤ)
+## [04] TECHNICAL ARSENAL (STACK & TOOLS)
 
-### 🔹 1. Backend Core & APIs
-<p>
-  <img src="https://img.shields.io/badge/PHP_8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel_11+-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js_20+-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-</p>
-
-### 🔹 2. Frontend Engineering & Dense UI
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blade_Engine-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dark_VSCode_UI-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Lucide_Icons-F56565?style=for-the-badge&logo=feather&logoColor=white" />
-</p>
-
-### 🔹 3. Databases, Caching & Data Storage
-<p>
-  <img src="https://img.shields.io/badge/MySQL_8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### 🔹 4. DevOps, Infrastructure & Cloud Storage
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx_Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Let's_Encrypt_acme.sh-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systemd_Daemons-FF6600?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2_Cluster-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shin_Drive_Storage-0052CC?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rclone_Cloud_Sync-336699?style=for-the-badge&logo=dropbox&logoColor=white" />
-</p>
-
-### 🔹 5. AI Autonomous Frameworks & Neural Speech
-<p>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_Orchestration-6C5CE7?style=for-the-badge&logo=dependabot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Edge_TTS_Neural-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event_Bus_%26_Webhooks-00CEC9?style=for-the-badge&logo=airplayvideo&logoColor=white" />
-</p>
+```text
++---------------------------------------------------------------------------------------------------+
+| TECHNOLOGY STACK MATRIX (NO ICONS / PURE ARCHITECTURE)                                            |
++--------------------------+------------------------------------------------------------------------+
+| Backend Core & APIs      | PHP 8.2+, Laravel 11+, Python 3.12+, FastAPI, Flask, Node.js 20,       |
+|                          | Express.js, Socket.IO, Pydantic v2, RESTful Microservices              |
++--------------------------+------------------------------------------------------------------------+
+| Frontend & Dense UI      | Tailwind CSS, Blade Template Engine, Jinja2, ES6+, TypeScript,         |
+|                          | Dark VSCode Dense Design System, Zero-Body Scroll Viewport Lock        |
++--------------------------+------------------------------------------------------------------------+
+| Databases & Caching      | MySQL 8.0+, MariaDB, PostgreSQL, SQLite (WAL Mode), Redis Cache        |
++--------------------------+------------------------------------------------------------------------+
+| Infrastructure & Cloud   | Ubuntu Linux, Nginx Reverse Proxy, Let's Encrypt / acme.sh (ECC-256),   |
+|                          | Systemd Daemons, PM2 Cluster, Shin Drive Cloud Engine, Rclone, UFW     |
++--------------------------+------------------------------------------------------------------------+
+| Autonomous AI & Neural   | Google Gemini, Multi-Agent Orchestrator, Microsoft Edge Neural TTS,    |
+|                          | Realtime Event Bus & Deterministic Ingestion Pipelines                 |
++--------------------------+------------------------------------------------------------------------+
+```
 
 ---
 
-## ⚡ SYSTEM ARCHITECTURAL BLUEPRINT (LUỒNG KIẾN TRÚC MẪU)
+## [05] SYSTEM ARCHITECTURAL BLUEPRINT
 
 ```text
        +-------------------------------------------------------------+
@@ -186,7 +144,7 @@ Hệ thống được vận hành hoàn toàn trên nền tảng **Lưu trữ Đ
                  │                                         │
                  ▼                                         ▼
    [ Modular Service Layer ] ◄─────────────────► [ Priority Event Queue ]
-   (Router ➔ Service ➔ Repo)                     (Deterministic Routing)
+   (Router -> Service -> Repo)                   (Deterministic Routing)
                  │                                         │
         ┌────────┴────────┐                       ┌────────┴────────┐
         ▼                 ▼                       ▼                 ▼
@@ -196,7 +154,7 @@ Hệ thống được vận hành hoàn toàn trên nền tảng **Lưu trữ Đ
 
 ---
 
-## ⚡ SYSTEM OPERATIONAL TERMINAL (LIVE DIAGNOSTIC)
+## [06] SYSTEM OPERATIONAL TERMINAL (LIVE DIAGNOSTIC)
 
 ```bash
 crystal-aress@systems-core:~$ systemctl status architecture-pipeline.service
@@ -218,19 +176,14 @@ crystal-aress@systems-core:~$ systemctl status architecture-pipeline.service
 
 ---
 
-## 🤝 PROFESSIONAL INQUIRIES & COLLABORATION
+## [07] PROFESSIONAL INQUIRIES & COLLABORATION
 
 Bạn đang tìm kiếm một **Principal Systems Architect, Senior Full-Stack Engineer hoặc Technical Lead** có năng lực giải quyết các bài toán hạ tầng chịu tải, kiến trúc phân tán và tự động hóa AI toàn diện?
 
-<p align="center">
-  <a href="https://github.com/shin254">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/shin254">
-    <img src="https://img.shields.io/badge/Direct_Message-GitHub_Issue_or_Discussion-00f2fe?style=for-the-badge&logo=github&logoColor=black" alt="Discussion" />
-  </a>
-</p>
+- GitHub: https://github.com/shin254
+- Inquiries: GitHub Issue / Discussion at https://github.com/shin254
 
+---
 <div align="center">
-  <sub>⚡ Designed and engineered autonomously by Crystal Aress (@shin254). Dedicated to architectural excellence. ⚡</sub>
+  <sub>Designed and engineered autonomously by Crystal Aress (@shin254). Dedicated to architectural excellence.</sub>
 </div>
