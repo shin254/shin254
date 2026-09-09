@@ -24,12 +24,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/shin254">
-    <img src="https://github-profile-trophy.vercel.app/?username=shin254&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
 </div>
 
 <br/>
@@ -45,46 +39,34 @@
 | Core Disciplines  | Distributed Architecture, High-Concurrency Pipelines, Autonomous AI Engine    |
 | Engineering Creed | "Zero Blind-Guessing in Debugging • Zero-Loss in Storage • Modular by Default" |
 | Specializations   | Realtime Event Bus, Linux Systems Hardening, Fault-Tolerant Disaster Recovery  |
+| Storage Paradigm  | Autonomous Cloud Storage & Snapshot Engine (Beyond Traditional VCS)           |
 +-------------------+-------------------------------------------------------------------------------+
 ```
 
 Tôi là một **Principal Systems Architect & Autonomous Full-Stack AI Engineer** chuyên sâu vào thiết kế kiến trúc phân tán, xử lý tải cao (high-throughput), tối ưu hóa tài nguyên phần cứng Linux và quy hoạch các hệ sinh thái AI Agents tự vận hành độc lập.
 
-Thay vì dựa vào các framework đóng gói sẵn, toàn bộ giải pháp kỹ thuật của tôi tập trung vào **hiệu năng cốt lõi, độ tin cậy của dữ liệu và kiến trúc module hóa tuyệt đối**.
+Thay vì dựa vào các framework đóng gói sẵn hoặc phụ thuộc vào quy trình VCS thủ công, toàn bộ giải pháp kỹ thuật của tôi tập trung vào **hiệu năng cốt lõi, bảo toàn dữ liệu bằng snapshot đám mây tự động và kiến trúc module hóa tuyệt đối**.
 
 ---
 
-## 📊 GITHUB LIVE METRICS & CONTRIBUTIONS
+## 🛡️ AUTONOMOUS STORAGE & ZERO-LOSS SNAPSHOT ENGINE (BEYOND GIT WORKFLOW)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/shin254">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shin254&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/shin254">
-          <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shin254&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <a href="https://github.com/shin254">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin254&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+```text
++---------------------------------------------------------------------------------------------------+
+| AUTONOMOUS CLOUD STORAGE & CONTINUOUS SNAPSHOT PARADIGM                                           |
++--------------------------+------------------------------------------------------------------------+
+| Kiến trúc thay thế       | Shin Drive Cloud Engine kết hợp Rclone Cloud & Multi-Tier Storage      |
+| Cơ chế snapshot          | Dynamic Exclusion Packing (--exclude node_modules, vendor, cache...)   |
+| Bảo toàn dữ liệu         | SHA-256 Checksum Verification & Automated MySQL DB Pre-Dump            |
+| Khôi phục thảm họa (DR)  | Khôi phục nguyên vẹn 100% môi trường trong < 60s không phụ thuộc VCS   |
++--------------------------+------------------------------------------------------------------------+
+```
 
-<div align="center">
-  <a href="https://github.com/shin254">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shin254&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
-</div>
+Hệ thống được vận hành hoàn toàn trên nền tảng **Lưu trữ Đám mây Tự động Hóa Độc lập (Autonomous Cloud Storage & Snapshot Engine)** thay thế hoàn toàn các thao tác Git thủ công:
+- **Zero-Friction Continuous Snapshots**: Tự động bắt ảnh chụp trạng thái hệ thống theo chu kỳ hoặc trước mỗi thao tác thay đổi mã nguồn.
+- **Dynamic Dependency Pruning**: Tự động quét và loại bỏ các thư mục phụ thuộc nặng (`node_modules`, `vendor`, `.venv`, cache) trước khi đóng gói, tối ưu hóa thời gian đồng bộ và tiết kiệm dung lượng lưu trữ.
+- **Atomic Database State Bundling**: Cơ sở dữ liệu luôn được trích xuất sạch (`database.sql`) đồng bộ hoàn toàn với trạng thái mã nguồn tại thời điểm snapshot.
+- **Instant DR Rollback**: Cơ chế khôi phục tức thì độc lập, cho phép dựng lại toàn bộ ứng dụng và hạ tầng mà không phụ thuộc vào nền tảng lưu trữ trung gian bên ngoài.
 
 ---
 
@@ -115,7 +97,7 @@ Thay vì dựa vào các framework đóng gói sẵn, toàn bộ giải pháp k�
 | 4. Cloud Infrastructure  | - Linux Hardening & Systemd Daemons: Quản trị tiến trình tự phục hồi.  |
 |    & DevOps Automation   | - Nginx High-Performance Reverse Proxy: SSL tự động (acme.sh/ECC-256), |
 |                          |   Gzip/Brotli compression, Upstream Load Balancing, Rate Limiting.     |
-|                          | - CI/CD Pipelines, Rclone Multi-Cloud Sync, UFW Firewall Strict Rules. |
+|                          | - Shin Drive Cloud Engine, Rclone Multi-Cloud Sync, UFW Strict Rules.  |
 +--------------------------+------------------------------------------------------------------------+
 | 5. Disaster Recovery     | - Zero-Loss Protocol: Cơ chế Snapshot JSON bất biến kèm SHA-256 Hash.  |
 |    & Data Integrity      | - Tự động hóa quy trình Dump CSDL nhất quán trước mọi thao tác deploy. |
@@ -166,15 +148,15 @@ Thay vì dựa vào các framework đóng gói sẵn, toàn bộ giải pháp k�
   <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### 🔹 4. DevOps, Infrastructure & Cloud
+### 🔹 4. DevOps, Infrastructure & Cloud Storage
 <p>
   <img src="https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx_Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Let's_Encrypt_acme.sh-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/Systemd_Daemons-FF6600?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/PM2_Cluster-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rclone_Sync-336699?style=for-the-badge&logo=dropbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shin_Drive_Storage-0052CC?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rclone_Cloud_Sync-336699?style=for-the-badge&logo=dropbox&logoColor=white" />
 </p>
 
 ### 🔹 5. AI Autonomous Frameworks & Neural Speech
@@ -231,7 +213,7 @@ crystal-aress@systems-core:~$ systemctl status architecture-pipeline.service
 
 [STATUS] Systematic Debugging Protocol: 4-Phase Enforced.
 [STATUS] Clean Architecture: 100% Modular Router-Service-Repo.
-[STATUS] Fault Tolerance: Immutable Snapshot & Disaster Recovery Validated.
+[STATUS] Storage Engine: Shin Drive Autonomous Cloud Snapshot & Zero-Loss DR Validated.
 ```
 
 ---
