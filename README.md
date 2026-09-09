@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/badge/AI_Orchestration-Autonomous_Multi--Agent-7928ca?style=for-the-badge&logo=probot&logoColor=white" alt="AI Orchestration" />
 </p>
 
+<p align="center">
+  <a href="https://shin254.github.io/shin254/">
+    <img src="https://img.shields.io/badge/Live_Showcase-Tailwind_%2B_Lucide_%2B_M_PLUS_1_Code_Dense_UI-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Live Dense UI" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
