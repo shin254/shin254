@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE_SYSTEMS_RUNNING-00f2fe?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/ARCHITECTURE-MODULAR_CLEAN_DESIGN-ff0844?style=flat-square" alt="Architecture" />
-  <img src="https://img.shields.io/badge/STORAGE-AUTONOMOUS_CLOUD_ENGINE-00ff87?style=flat-square" alt="Storage" />
-  <img src="https://img.shields.io/badge/UPTIME-99.99%25_HIGH_AVAILABILITY-7928ca?style=flat-square" alt="Uptime" />
+  <img src="https://img.shields.io/badge/DISASTER_RECOVERY-ZERO--LOSS_HOT_STANDBY-00ff87?style=flat-square" alt="Disaster Recovery" />
+  <img src="https://img.shields.io/badge/AVAILABILITY-99.99%25_UPTIME-7928ca?style=flat-square" alt="Availability" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 <br/>
 
-## [01] TECHNICAL IDENTITY MATRIX
+## [01] TECHNICAL IDENTITY & EXECUTIVE SUMMARY
 
 ```text
 +---------------------------------------------------------------------------------------------------+
@@ -33,38 +33,57 @@
 | Core Disciplines  | Distributed Architecture, High-Concurrency Pipelines, Autonomous AI Engine    |
 | Engineering Creed | "Zero Blind-Guessing in Debugging • Zero-Loss in Storage • Modular by Default" |
 | Specializations   | Realtime Event Bus, Linux Systems Hardening, Fault-Tolerant Disaster Recovery  |
-| Storage Engine    | Shin Drive Autonomous Cloud Snapshot Engine (Beyond Traditional VCS)          |
+| Direct Contacts   | Email: kaitouplay@gmail.com | Web: https://shin520.net | FB: fb.me/ereiai    |
 +-------------------+-------------------------------------------------------------------------------+
 ```
 
 Tôi là một **Principal Systems Architect & Autonomous Full-Stack AI Engineer** chuyên sâu vào thiết kế kiến trúc phân tán, xử lý tải cao (high-throughput), tối ưu hóa tài nguyên phần cứng Linux và quy hoạch các hệ sinh thái AI Agents tự vận hành độc lập.
 
-Toàn bộ giải pháp kỹ thuật tập trung vào **hiệu năng cốt lõi, bảo toàn dữ liệu bằng snapshot đám mây tự động và kiến trúc module hóa tuyệt đối**.
+Mọi giải pháp kỹ thuật đều tập trung vào **hiệu năng cốt lõi, bảo toàn dữ liệu bằng snapshot đám mây tự động, kỷ luật gỡ lỗi khoa học và kiến trúc module hóa tuyệt đối**.
 
 ---
 
-## [02] AUTONOMOUS STORAGE & ZERO-LOSS SNAPSHOT ENGINE (BEYOND GIT WORKFLOW)
+## [02] QUANTITATIVE BENCHMARKS & OPERATIONAL IMPACT
 
 ```text
 +---------------------------------------------------------------------------------------------------+
-| AUTONOMOUS CLOUD STORAGE & CONTINUOUS SNAPSHOT SPECIFICATION                                      |
-+--------------------------+------------------------------------------------------------------------+
-| Architecture Model       | Shin Drive Cloud Engine + Rclone Cloud + Multi-Tier Redundancy         |
-| Snapshot Strategy        | Dynamic Exclusion Packing (--exclude node_modules, vendor, cache...)   |
-| Data Integrity Protocol  | SHA-256 Checksum Verification + Automated MySQL DB Clean Pre-Dump      |
-| Disaster Recovery (DR)   | Instant Hot Standby Rollback in < 60s without Third-Party Dependencies |
-+--------------------------+------------------------------------------------------------------------+
+| PRODUCTION BENCHMARK METRICS & MEASURABLE IMPACT                                                  |
++--------------------------+--------------------+---------------------------------------------------+
+| Metric                   | Target / Result    | Architectural Implementation                      |
++--------------------------+--------------------+---------------------------------------------------+
+| Ingestion Latency        | < 1.0 ms           | Deterministic Pipeline with zero runtime locks    |
+| Service Availability     | 99.99% Uptime      | Systemd Process Supervision & Nginx Load Balancing|
+| Disaster Recovery RTO    | < 60 Seconds       | Automated Hot Standby Rollback from Cloud Storage |
+| Database Dump Overhead   | Zero-Lock Atomic   | Single-transaction consistent MySQL pre-dumps     |
+| Memory Leak Profile      | Zero Leak Verified | Strict CGroup boundaries & Resource Isolation     |
+| Codebase Modularity      | 100% Decoupled     | 4-Tier Pattern (Controller, Service, Repo, Schema)|
++--------------------------+--------------------+---------------------------------------------------+
 ```
-
-Hệ thống được vận hành hoàn toàn trên nền tảng **Lưu trữ Đám mây Tự động Hóa Độc lập (Autonomous Cloud Storage & Snapshot Engine)** thay thế hoàn toàn các thao tác Git thủ công:
-- **Zero-Friction Continuous Snapshots**: Tự động bắt ảnh chụp trạng thái hệ thống theo chu kỳ hoặc trước mỗi thao tác thay đổi mã nguồn.
-- **Dynamic Dependency Pruning**: Tự động quét và loại bỏ các thư mục phụ thuộc nặng (`node_modules`, `vendor`, `.venv`, cache) trước khi đóng gói, tối ưu hóa thời gian đồng bộ và tiết kiệm dung lượng lưu trữ.
-- **Atomic Database State Bundling**: Cơ sở dữ liệu luôn được trích xuất sạch (`database.sql`) đồng bộ hoàn toàn với trạng thái mã nguồn tại thời điểm snapshot.
-- **Instant DR Rollback**: Cơ chế khôi phục tức thì độc lập, cho phép dựng lại toàn bộ ứng dụng và hạ tầng mà không phụ thuộc vào nền tảng lưu trữ trung gian bên ngoài.
 
 ---
 
-## [03] PILLARS OF ENGINEERING EXCELLENCE (CORE CAPABILITIES)
+## [03] AUTONOMOUS DISASTER RECOVERY & RESILIENT STORAGE ENGINE
+
+```text
++---------------------------------------------------------------------------------------------------+
+| CONTINUOUS SNAPSHOT & DISASTER RECOVERY SPECIFICATION                                             |
++--------------------------+------------------------------------------------------------------------+
+| Storage Engine Model     | Shin Drive Cloud Engine + Rclone Multi-Cloud Redundancy                |
+| Snapshot Strategy        | Dynamic Exclusion Packing (--exclude node_modules, vendor, cache...)   |
+| Data Integrity Protocol  | SHA-256 Checksum Verification + Automated MySQL DB Clean Pre-Dump      |
+| Role in DevOps Lifecycle | Enterprise Disaster Recovery & Autonomous Hot Standby Replication      |
++--------------------------+------------------------------------------------------------------------+
+```
+
+Hệ thống được gia cố bằng nền tảng **Lưu trữ Đám mây & Snapshot Tự động Hóa (Autonomous Disaster Recovery & Snapshot Engine)** chạy ngầm, bảo vệ toàn diện hệ sinh thái:
+- **Zero-Friction Continuous Snapshots**: Tự động bắt ảnh chụp trạng thái hệ thống theo chu kỳ hoặc trước mỗi thao tác thay đổi mã nguồn.
+- **Dynamic Dependency Pruning**: Tự động quét và loại bỏ các thư mục phụ thuộc nặng (`node_modules`, `vendor`, `.venv`, cache) trước khi đóng gói, tối ưu hóa thời gian đồng bộ và tiết kiệm dung lượng lưu trữ.
+- **Atomic Database State Bundling**: Cơ sở dữ liệu luôn được trích xuất sạch (`database.sql`) đồng bộ hoàn toàn với trạng thái mã nguồn tại thời điểm snapshot.
+- **Instant DR Rollback**: Cơ chế khôi phục tức thì độc lập, cho phép dựng lại toàn bộ ứng dụng và hạ tầng trong vòng dưới 60 giây.
+
+---
+
+## [04] PILLARS OF ENGINEERING EXCELLENCE (CORE CAPABILITIES)
 
 ```text
 +---------------------------------------------------------------------------------------------------+
@@ -103,7 +122,7 @@ Hệ thống được vận hành hoàn toàn trên nền tảng **Lưu trữ Đ
 
 ---
 
-## [04] TECHNICAL ARSENAL (STACK & TOOLS)
+## [05] TECHNICAL ARSENAL (STACK & TOOLS)
 
 ```text
 +---------------------------------------------------------------------------------------------------+
@@ -127,7 +146,7 @@ Hệ thống được vận hành hoàn toàn trên nền tảng **Lưu trữ Đ
 
 ---
 
-## [05] SYSTEM ARCHITECTURAL BLUEPRINT
+## [06] SYSTEM ARCHITECTURAL BLUEPRINT
 
 ```text
        +-------------------------------------------------------------+
@@ -154,7 +173,7 @@ Hệ thống được vận hành hoàn toàn trên nền tảng **Lưu trữ Đ
 
 ---
 
-## [06] SYSTEM OPERATIONAL TERMINAL (LIVE DIAGNOSTIC)
+## [07] SYSTEM OPERATIONAL TERMINAL (LIVE DIAGNOSTIC)
 
 ```bash
 crystal-aress@systems-core:~$ systemctl status architecture-pipeline.service
@@ -176,12 +195,20 @@ crystal-aress@systems-core:~$ systemctl status architecture-pipeline.service
 
 ---
 
-## [07] PROFESSIONAL INQUIRIES & COLLABORATION
+## [08] PROFESSIONAL INQUIRIES & DIRECT CONTACT
 
-Bạn đang tìm kiếm một **Principal Systems Architect, Senior Full-Stack Engineer hoặc Technical Lead** có năng lực giải quyết các bài toán hạ tầng chịu tải, kiến trúc phân tán và tự động hóa AI toàn diện?
+Bạn là **nhà tuyển dụng IT, Founder, CTO hoặc Technical Lead** đang tìm kiếm nhân sự cấp cao có tư duy kiến trúc hệ thống, khả năng thiết kế phân tán chịu tải cao và tự vận hành hạ tầng độc lập? Hãy liên hệ trực tiếp:
 
-- GitHub: https://github.com/shin254
-- Inquiries: GitHub Issue / Discussion at https://github.com/shin254
+```text
++---------------------------------------------------------------------------------------------------+
+| DIRECT COMMUNICATION CHANNELS                                                                     |
++--------------------------+------------------------------------------------------------------------+
+| Primary Email            | kaitouplay@gmail.com                                                   |
+| Personal Website         | https://shin520.net                                                    |
+| Facebook Profile         | https://fb.me/ereiai                                                   |
+| GitHub Profile           | https://github.com/shin254                                             |
++--------------------------+------------------------------------------------------------------------+
+```
 
 ---
 <div align="center">
