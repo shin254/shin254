@@ -1,19 +1,22 @@
 <div align="center">
 
-# CRYSTAL ARESS (@shin254)
-### PRINCIPAL SYSTEMS ARCHITECT | AUTONOMOUS FULL-STACK AI & DEVOPS ENGINEER
+# NGUYỄN VIỆT TIẾN (@shin254)
+### APPLIED AI ENGINEER | AI AGENT & AUTOMATION SYSTEMS
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=780&height=80&lines=Crystal+Aress+--+Principal+Systems+Architect;High-Throughput+Distributed+Systems+%26+Zero-Loss+Data+Integrity;Autonomous+Agentic+Pipelines+%26+Sub-Millisecond+Realtime+Engine" alt="Typing Banner" />
-  </a>
+  <em>AI Systems Architecture · Multi-Agent Orchestration · Harness & Context Engineering · Full-stack Development · DevOps</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_SYSTEMS_RUNNING-00f2fe?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-MODULAR_CLEAN_DESIGN-ff0844?style=flat-square" alt="Architecture" />
-  <img src="https://img.shields.io/badge/DISASTER_RECOVERY-ZERO--LOSS_HOT_STANDBY-00ff87?style=flat-square" alt="Disaster Recovery" />
-  <img src="https://img.shields.io/badge/AVAILABILITY-99.99%25_UPTIME-7928ca?style=flat-square" alt="Availability" />
+  <img src="https://img.shields.io/badge/ROLE-APPLIED_AI_ENGINEER-00f2fe?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/SPECIALTY-MULTI--AGENT_ORCHESTRATION-ff0844?style=flat-square" alt="Specialty" />
+  <img src="https://img.shields.io/badge/ENGINEERING-HARNESS_%26_CONTEXT-00ff87?style=flat-square" alt="Engineering" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-15%2B_CLIENT_WEBSITES-7928ca?style=flat-square" alt="Websites" />
+  <img src="https://img.shields.io/badge/ECOSYSTEM-LINUX_VPS_AUTONOMOUS-f59e0b?style=flat-square" alt="Ecosystem" />
+</p>
+
+<p align="center">
+  <a href="https://profile.shin520.net" target="_blank"><strong>🌐 Xem Live Technical CV tại profile.shin520.net</strong></a>
 </p>
 
 ---
@@ -28,189 +31,209 @@
 +---------------------------------------------------------------------------------------------------+
 | PROFILE SPECIFICATION                                                                             |
 +-------------------+-------------------------------------------------------------------------------+
-| Identity          | Crystal Aress (@shin254)                                                      |
-| Professional Role | Principal Systems Architect | Senior Full-Stack & DevOps Engineer             |
-| Core Disciplines  | Distributed Architecture, High-Concurrency Pipelines, Autonomous AI Engine    |
-| Engineering Creed | "Zero Blind-Guessing in Debugging • Zero-Loss in Storage • Modular by Default" |
-| Specializations   | Realtime Event Bus, Linux Systems Hardening, Fault-Tolerant Disaster Recovery  |
-| Direct Contacts   | Email: kaitouplay@gmail.com | Web: https://shin520.net | FB: fb.me/ereiai    |
+| Full Name         | Nguyễn Việt Tiến (@shin254)                                                   |
+| Professional Role | Applied AI Engineer | AI Agent & Automation Systems                           |
+| Core Disciplines  | AI Systems Architecture, Multi-Agent Orchestration, Harness Engineering       |
+| Primary Stack     | Python (FastAPI), PHP (Laravel), Linux/Ubuntu VPS, LLM Tool Calling, MCP      |
+| Engineering Creed | "Closed-Loop Verification • Strict Context Scoping • Modular by Default"      |
+| Proven Track      | 15+ Independent Commercial Websites | Autonomous VPS AI Ecosystem (38 Skills) |
+| Direct Contacts   | Email: tiennv219@gmail.com | Phone: 0834518640                                |
+| Web Portals       | Portfolio: https://profile.shin520.net | Hub: https://shin520.net                 |
+| Location          | Đồng Hòa, Bình Dương / TP. Hồ Chí Minh, Việt Nam                              |
 +-------------------+-------------------------------------------------------------------------------+
 ```
 
-Tôi là một **Principal Systems Architect & Autonomous Full-Stack AI Engineer** chuyên sâu vào thiết kế kiến trúc phân tán, xử lý tải cao (high-throughput), tối ưu hóa tài nguyên phần cứng Linux và quy hoạch các hệ sinh thái AI Agents tự vận hành độc lập.
+Tôi là một **Applied AI Engineer** có nền tảng **Full-stack Software Engineering**, kinh nghiệm thực chiến phát triển sản phẩm thương mại và tự tay thiết kế, vận hành toàn bộ hạ tầng máy chủ Linux:
 
-Mọi giải pháp kỹ thuật đều tập trung vào **hiệu năng cốt lõi, bảo toàn dữ liệu bằng snapshot đám mây tự động, kỷ luật gỡ lỗi khoa học và kiến trúc module hóa tuyệt đối**.
-
----
-
-## [02] QUANTITATIVE BENCHMARKS & OPERATIONAL IMPACT
-
-```text
-+---------------------------------------------------------------------------------------------------+
-| PRODUCTION BENCHMARK METRICS & MEASURABLE IMPACT                                                  |
-+--------------------------+--------------------+---------------------------------------------------+
-| Metric                   | Target / Result    | Architectural Implementation                      |
-+--------------------------+--------------------+---------------------------------------------------+
-| Ingestion Latency        | < 1.0 ms           | Deterministic Pipeline with zero runtime locks    |
-| Service Availability     | 99.99% Uptime      | Systemd Process Supervision & Nginx Load Balancing|
-| Disaster Recovery RTO    | < 60 Seconds       | Automated Hot Standby Rollback from Cloud Storage |
-| Database Dump Overhead   | Zero-Lock Atomic   | Single-transaction consistent MySQL pre-dumps     |
-| Memory Leak Profile      | Zero Leak Verified | Strict CGroup boundaries & Resource Isolation     |
-| Codebase Modularity      | 100% Decoupled     | 4-Tier Pattern (Controller, Service, Repo, Schema)|
-+--------------------------+--------------------+---------------------------------------------------+
-```
+- **Giai đoạn 2022–2024**: Trực tiếp nghiên cứu, tùy biến CMS Laravel và hoàn thành độc lập **hơn 15 website khách hàng**, đảm nhiệm trọn vẹn từ thiết kế giao diện, backend, cơ sở dữ liệu đến triển khai VPS/hosting và tối ưu vận hành.
+- **Từ cuối 2022 đến nay**: Tiếp cận và nghiên cứu ứng dụng Generative AI. Giai đoạn 2025–2026 tập trung chuyên sâu vào **Applied AI, Agentic Systems, Prompt Engineering, Context Engineering, Harness Engineering và Multi-Agent Workflow Automation**.
+- **Hệ sinh thái AI thực chiến trên VPS**: Xây dựng nền tảng điều phối tác nhân đa vai trò, quản lý bộ nhớ ngữ cảnh (Shared Blackboard SQLite), thực thi workflow tuyến tính & closed-loop, kết nối công cụ qua REST API/MCP/SSE, kiểm soát phân quyền an toàn và quản trị dịch vụ bằng systemd/Nginx.
 
 ---
 
-## [03] AUTONOMOUS DISASTER RECOVERY & RESILIENT STORAGE ENGINE
+## [02] CORE COMPETENCIES (NĂNG LỰC CỐT LÕI)
 
 ```text
 +---------------------------------------------------------------------------------------------------+
-| CONTINUOUS SNAPSHOT & DISASTER RECOVERY SPECIFICATION                                             |
-+--------------------------+------------------------------------------------------------------------+
-| Storage Engine Model     | Shin Drive Cloud Engine + Rclone Multi-Cloud Redundancy                |
-| Snapshot Strategy        | Dynamic Exclusion Packing (--exclude node_modules, vendor, cache...)   |
-| Data Integrity Protocol  | SHA-256 Checksum Verification + Automated MySQL DB Clean Pre-Dump      |
-| Role in DevOps Lifecycle | Enterprise Disaster Recovery & Autonomous Hot Standby Replication      |
-+--------------------------+------------------------------------------------------------------------+
-```
-
-Hệ thống được gia cố bằng nền tảng **Lưu trữ Đám mây & Snapshot Tự động Hóa (Autonomous Disaster Recovery & Snapshot Engine)** chạy ngầm, bảo vệ toàn diện hệ sinh thái:
-- **Zero-Friction Continuous Snapshots**: Tự động bắt ảnh chụp trạng thái hệ thống theo chu kỳ hoặc trước mỗi thao tác thay đổi mã nguồn.
-- **Dynamic Dependency Pruning**: Tự động quét và loại bỏ các thư mục phụ thuộc nặng (`node_modules`, `vendor`, `.venv`, cache) trước khi đóng gói, tối ưu hóa thời gian đồng bộ và tiết kiệm dung lượng lưu trữ.
-- **Atomic Database State Bundling**: Cơ sở dữ liệu luôn được trích xuất sạch (`database.sql`) đồng bộ hoàn toàn với trạng thái mã nguồn tại thời điểm snapshot.
-- **Instant DR Rollback**: Cơ chế khôi phục tức thì độc lập, cho phép dựng lại toàn bộ ứng dụng và hạ tầng trong vòng dưới 60 giây.
-
----
-
-## [04] PILLARS OF ENGINEERING EXCELLENCE (CORE CAPABILITIES)
-
-```text
-+---------------------------------------------------------------------------------------------------+
-| 6 TECHNICAL DISCIPLINES & ARCHITECTURAL FOUNDATIONS                                               |
+| 4 PILLARS OF APPLIED AI & SYSTEMS ENGINEERING                                                     |
 +--------------------------+------------------------------------------------------------------------+
 | Discipline               | Technical Capabilities & Hardened Implementations                      |
 +--------------------------+------------------------------------------------------------------------+
-| 1. High-Concurrency      | - Deterministic Ingestion Pipelines: Sub-millisecond latency (<1ms).    |
-|    & Realtime Streaming  | - WebSocket Cluster Broadcast with backpressure guard and heartbeat.   |
-|                          | - SQLite WAL Mode & In-Memory Redis: Parallel I/O without lockups.     |
+| 1. Applied AI & LLM      | - Prompt Engineering: Structured prompting, role-based instruction,    |
+|    Engineering           |   task decomposition, strict JSON output constraints.                  |
+|                          | - Context Engineering: Context injection, profile scoping, cache reuse. |
+|                          | - Harness Engineering: Hệ thống điều khiển AI qua rules, skills, tools |
+|                          |   memory và execution policies chuẩn hóa.                              |
+|                          | - LLM Tool Integration: Tích hợp mô hình AI với REST API, MCP, Shell.  |
 +--------------------------+------------------------------------------------------------------------+
-| 2. Systematic Debugging  | - The Iron Law: 4-Phase Scientific Protocol:                           |
-|    (Root Cause Analysis) |   [Root Cause -> Reproduce Test -> Fix Design -> Regression Verify].   |
-|                          | - Isolation of Memory Leaks, Deadlocks, CPU Spikes, Race Conditions.   |
-|                          | - Zero blind-guessing, zero superficial symptom patching.              |
+| 2. Agentic Systems &     | - Thiết kế và phân vai AI Agent/Subagent theo chuyên môn nghiệp vụ.    |
+|    Multi-Agent           | - Xây dựng Orchestrator, Dispatcher điều phối nhiều AI Worker độc lập. |
+|    Orchestration         | - Workflow tuyến tính và vòng lặp xử lý có điều kiện (Loop control).   |
+|                          | - Cơ chế truyền dữ liệu, kết quả và context giữa các tác nhân.         |
+|                          | - Agent Foundry: Tự động sinh cấu hình vai trò, skills và harness mới. |
 +--------------------------+------------------------------------------------------------------------+
-| 3. Modular Backend       | - Clean Architecture & Domain-Driven Design (DDD).                     |
-|    & Decoupled Systems   | - 4 Immutable Layers: Controller -> Service -> Repository -> Schema.   |
-|                          | - Single Responsibility (SRP): Zero monolith, high cohesion.           |
-|                          | - Idempotency Key Design: Eliminating duplicate transaction anomalies. |
+| 3. AI Workflow & Process | - Chuyển đổi bài toán nghiệp vụ thành chuỗi workflow tự động hóa.      |
+|    Automation            | - Quy trình Closed-loop: Phân tích -> Thực hiện -> Kiểm tra -> Fix.   |
+|                          | - Tích hợp API, webhook, SSE và hệ thống bên ngoài vào luồng AI.       |
+|                          | - Verification Loops & Circuit Breaker: Giới hạn lặp, chống run ngầm.  |
+|                          | - Ghi nhận trạng thái, lịch sử tác vụ và kết quả nghiệm thu rõ ràng.   |
 +--------------------------+------------------------------------------------------------------------+
-| 4. Cloud Infrastructure  | - Linux Hardening & Systemd Supervision: Self-healing process daemons. |
-|    & DevOps Automation   | - Nginx Reverse Proxy: SSL automation (acme.sh ECC-256), rate limiting |
-|                          | - Shin Drive Cloud Engine, Rclone Multi-Cloud Sync, UFW Firewall.      |
-+--------------------------+------------------------------------------------------------------------+
-| 5. Disaster Recovery     | - Zero-Loss Protocol: Immutable JSON Snapshots with SHA-256 Checksums. |
-|    & Data Integrity      | - Automated pre-deployment DB dumps (zero schema discrepancy).         |
-|                          | - Multi-tier Backup: Hot Standby Replica, Hourly Diff, Cold Archive.   |
-|                          | - Soft-quarantine safety rules instead of direct deletion.             |
-+--------------------------+------------------------------------------------------------------------+
-| 6. Autonomous AI Agents  | - Multi-Agent Workflow Orchestration with partitioned responsibilities.|
-|    & Audio Processing    | - Deterministic Structured Output enforcement via strict JSON Schemas. |
-|                          | - Realtime Neural Audio Queue with priority buffer management.         |
+| 4. AI Infrastructure,    | - Quản trị môi trường thực thi AI trên Linux/Ubuntu VPS.               |
+|    Security & Governance | - MCP Gateway & Reverse Proxy: Kiểm soát truy cập, schema xác thực.    |
+|                          | - Cấu hình giới hạn lệnh shell, whitelist thư mục và phân quyền file.  |
+|                          | - Service Registry, Centralized Config, systemd daemon supervision.    |
+|                          | - Logging, real-time monitoring, auto-recovery & soft quarantine.      |
 +--------------------------+------------------------------------------------------------------------+
 ```
 
 ---
 
-## [05] TECHNICAL ARSENAL (STACK & TOOLS)
+## [03] PROFESSIONAL EXPERIENCE (KINH NGHIỆM CHUYÊN MÔN)
+
+### 🔹 INDEPENDENT APPLIED AI ENGINEER
+**Self-directed AI Research & Systems Engineering | 2025–Present**
+*Hạ tầng VPS riêng · Multi-Agent Ecosystem · Automation Platforms*
+
+- **AI Systems & Agent Architecture**:
+  - Thiết kế kiến trúc AI Agent đa vai trò (Research, Coding, Testing, DevOps, Content/Media).
+  - Xây dựng hệ thống Harness phân tầng: Global Harness, Sub-Harness, Context Profiles và Skills Registry (ghi nhận **38 skills** có cấu trúc riêng trên VPS).
+  - Triển khai cơ chế Dynamic Harness Injection, nạp đúng kỹ năng và luật kiểm duyệt cho từng worker theo ngữ cảnh.
+- **AI Workflow & Autonomous Execution**:
+  - Phát triển engine thực thi Closed-loop với tiêu chí nghiệm thu rõ ràng, tự động ngắt khi phát hiện sai lệch.
+  - Thiết kế Shared Memory / Blackboard sử dụng SQLite WAL lưu trữ bài học thực nghiệm, handoff context giữa các agents.
+  - Xây dựng bảng điều khiển quản lý hội thoại, kế hoạch, tác vụ, log và tiến trình máy chủ.
+- **AI Tooling & Integration**:
+  - Xây dựng gateway kết nối AI Tool Calling thông qua REST API, Model Context Protocol (MCP), JSON-RPC và SSE.
+  - Thiết lập lớp trung gian bảo mật: Schema validation, path jail và command blacklist trước khi AI chạm vào OS.
+- **Platform Engineering & Delivery**:
+  - Phát triển Agent Studio, Agent Command Hub, ShinAssistant Portal và các công cụ tự động hóa nội bộ.
+  - Tích hợp mô hình AI ngôn ngữ và AI tạo hình ảnh vào quy trình phát triển sản phẩm số và game tương tác.
+
+---
+
+### 🔹 FULL-STACK CMS DEVELOPER / TECHNICAL STAFF
+**Công ty TNHH Thương Mại Dịch Vụ Công Nghệ AIB | 2022–2024**
+*PHP/Laravel · MySQL · CMS Customization · Linux Hosting & VPS*
+
+- **Nghiên cứu & Tùy biến CMS**: Phân tích mã nguồn CMS Laravel nội bộ, thiết kế cấu trúc dữ liệu, viết module mở rộng và tùy biến backend theo yêu cầu thực tế của từng khách hàng.
+- **Thiết kế & Lập trình Full-cycle**: Trực tiếp đảm nhiệm trọn vẹn từ thiết kế UI/UX, cắt HTML/CSS/JavaScript responsive đến lập trình logic nghiệp vụ backend, CRUD và API.
+- **Triển khai & Vận hành**: Trực tiếp thực hiện độc lập **hơn 15 website khách hàng**, bàn giao trọn gói từ khâu code đến cấu hình máy chủ Linux, DNS, tên miền, chứng chỉ SSL và xử lý sự cố.
+- **Ứng dụng GenAI sớm**: Bắt đầu tích hợp Generative AI từ cuối 2022 để tăng tốc độ phân tích mã nguồn, gỡ lỗi và tối ưu hóa thời gian bàn giao dự án.
+
+---
+
+## [04] REPRESENTATIVE SYSTEMS ARCHITECTURE
+
+```text
+       +--------------------------------------------------------------------+
+       |              CLIENTS / WEB INTERFACES / EXTERNAL AGENTS            |
+       +--------------------------------------------------------------------+
+                                         │
+                                         ▼
+                 [ Nginx Reverse Proxy / SSL (acme.sh ECC-256) ]
+                                         │
+                  ┌──────────────────────┴──────────────────────┐
+                  ▼                                             ▼
+       [ Web App / Control UI ]                      [ MCP Gateway / SSE API ]
+       (Dense Dark VSCode Style)                     (Tool Calling & Protocols)
+                  │                                             │
+                  └──────────────────────┬──────────────────────┘
+                                         ▼
+                 [ SUBAGENT DISPATCHER & COO ORCHESTRATOR ]
+             (Role Assignment · Task Decomposition · Governance)
+                                         │
+                 ┌───────────────────────┼───────────────────────┐
+                 ▼                       ▼                       ▼
+          [ Dev Agent ]           [ Research Agent ]       [ Tester Agent ]
+        (Coding & Refactor)     (Knowledge & Codebase)   (Verification & QA)
+                 │                       │                       │
+                 └───────────────────────┼───────────────────────┘
+                                         ▼
+            ┌────────────────────────────┴────────────────────────────┐
+            ▼                                                         ▼
+  [ Shared Blackboard ]                                     [ Persistent Storage ]
+(SQLite WAL · Handoff Data)                               (MySQL / MariaDB / FS)
+```
+
+### Các hệ thống tiêu biểu đã xây dựng và tích hợp:
+- **Agent Studio & Agent Command Hub**: Quản lý cấu hình Agent, system prompt, vai trò và luồng điều phối tác nhân.
+- **Global Harness & Context Infrastructure**: Quản lý quy tắc, kỹ năng, context profiles chuyên biệt theo từng miền nghiệp vụ.
+- **MCP Gateway & Tool Calling Engine**: Kết nối mô hình AI an toàn với file system, shell command, API và database.
+- **Vườn Thiên Không (VTK)**: Nền tảng game & sản phẩm số ứng dụng AI hội thoại và AI tạo hình ảnh (Live: https://vtk.shin520.net).
+- **ShinAssistant Portal & Utility Hub**: Cổng trợ lý AI, quản lý tri thức, dự án và tự động hóa vận hành.
+- **CASI & Linux Management Tools**: Bộ công cụ định danh thiết bị, đồng bộ VPS, quản trị website và giám sát tiến trình.
+
+---
+
+## [05] TECHNICAL ARSENAL (CÔNG NGHỆ & KỸ NĂNG)
 
 ```text
 +---------------------------------------------------------------------------------------------------+
-| TECHNOLOGY STACK MATRIX (NO ICONS / PURE ARCHITECTURE)                                            |
+| TECHNICAL STACK & ARSENAL                                                                         |
 +--------------------------+------------------------------------------------------------------------+
-| Backend Core & APIs      | PHP 8.2+, Laravel 11+, Python 3.12+, FastAPI, Flask, Node.js 20,       |
-|                          | Express.js, Socket.IO, Pydantic v2, RESTful Microservices              |
+| AI & Agentic Systems     | Prompt Engineering, Context Engineering, Harness Architecture,         |
+|                          | Multi-Agent Orchestration, LLM Tool Calling, Model Context Protocol,   |
+|                          | Verification Loops, Agent Governance, Shared Blackboard Architecture   |
 +--------------------------+------------------------------------------------------------------------+
-| Frontend & Dense UI      | Tailwind CSS, Blade Template Engine, Jinja2, ES6+, TypeScript,         |
-|                          | Dark VSCode Dense Design System, Zero-Body Scroll Viewport Lock        |
+| Backend & Programming    | Python (FastAPI, Flask), PHP (Laravel 10/11), JavaScript, Node.js,     |
+|                          | Pydantic, RESTful API, JSON-RPC, SSE, WebSocket, C#/.NET (AI-assisted) |
 +--------------------------+------------------------------------------------------------------------+
-| Databases & Caching      | MySQL 8.0+, MariaDB, PostgreSQL, SQLite (WAL Mode), Redis Cache        |
+| Frontend & Web Design    | HTML5, CSS3, Tailwind CSS, JavaScript ES6+, Responsive Layouts,        |
+|                          | Dense UI Dark VSCode Design, Lucide Icons, Blade Templates             |
 +--------------------------+------------------------------------------------------------------------+
-| Infrastructure & Cloud   | Ubuntu Linux, Nginx Reverse Proxy, Let's Encrypt / acme.sh (ECC-256),   |
-|                          | Systemd Daemons, PM2 Cluster, Shin Drive Cloud Engine, Rclone, UFW     |
+| Databases & Storage      | MySQL, MariaDB, SQLite (WAL Mode), Redis, JSON Schema Design           |
 +--------------------------+------------------------------------------------------------------------+
-| Autonomous AI & Neural   | Google Gemini, Multi-Agent Orchestrator, Microsoft Edge Neural TTS,    |
-|                          | Realtime Event Bus & Deterministic Ingestion Pipelines                 |
+| Infrastructure & DevOps  | Linux (Ubuntu/Debian), VPS Management, Nginx Reverse Proxy,            |
+|                          | Cloudflare Tunnel, systemd Services, Git, SSL acme.sh, Process Monitor |
++--------------------------+------------------------------------------------------------------------+
+| Digital & Delivery       | SEO, GEO, AIO, CMS Customization, Business Process Automation          |
 +--------------------------+------------------------------------------------------------------------+
 ```
 
 ---
 
-## [06] SYSTEM ARCHITECTURAL BLUEPRINT
+## [06] EDUCATION & CONTINUOUS LEARNING
 
 ```text
-       +-------------------------------------------------------------+
-       |                  CLIENTS / BROWSERS / AGENTS                |
-       +-------------------------------------------------------------+
-                                      │
-                                      ▼
-             [ Nginx Reverse Proxy (SSL acme.sh ECC-256) ]
-                                      │
-                 ┌────────────────────┴────────────────────┐
-                 ▼                                         ▼
-   [ REST / Webhook Ingestion ]               [ WebSocket Realtime Bus ]
-         (Sub-ms Pipeline)                         (Socket.IO Engine)
-                 │                                         │
-                 ▼                                         ▼
-   [ Modular Service Layer ] ◄─────────────────► [ Priority Event Queue ]
-   (Router -> Service -> Repo)                   (Deterministic Routing)
-                 │                                         │
-        ┌────────┴────────┐                       ┌────────┴────────┐
-        ▼                 ▼                       ▼                 ▼
- [ MySQL / Postgres ] [ SQLite WAL ]       [ Neural Audio TTS ] [ Snapshot DR ]
- (Primary Relational) (Event Storage)      (Priority Buffer)    (SHA-256 Check)
++---------------------------------------------------------------------------------------------------+
+| EDUCATION & RESEARCH TIMELINE                                                                     |
++--------------------------+------------------------------------------------------------------------+
+| 2018 – 2021              | FPT Polytechnic — Cao đẳng                                             |
+|                          | Chuyên ngành: Thiết Kế Website                                         |
++--------------------------+------------------------------------------------------------------------+
+| 2022 – Hiện tại          | Tự học, Nghiên cứu Độc lập & Thực nghiệm Chuyên sâu:                   |
+|                          | - Applied AI & LLM Applications, Prompt/Context Engineering            |
+|                          | - Agentic Systems, Multi-Agent Orchestration & Harness Architecture    |
+|                          | - AI Workflow Automation, MCP Integration & System Governance          |
++--------------------------+------------------------------------------------------------------------+
 ```
 
 ---
 
-## [07] SYSTEM OPERATIONAL TERMINAL (LIVE DIAGNOSTIC)
+## [07] CAREER OBJECTIVE & DIRECT CONTACT
 
-```bash
-crystal-aress@systems-core:~$ systemctl status architecture-pipeline.service
-● architecture-pipeline.service - Crystal Aress High-Reliability Architecture Pipeline
-     Loaded: loaded (/etc/systemd/system/architecture-pipeline.service; enabled)
-     Active: active (running) with 99.99% availability
-   Main PID: 1024 (systems_architect)
-      Tasks: 32 (limit: 32768)
-     Memory: 180.0M (Zero-Leak Verified)
-     CGroup: /system.slice/architecture-pipeline.service
-             ├─1024 python3 -m core.distributed_engine
-             ├─1025 node /var/services/event-bus/server.js
-             └─1026 nginx: worker process
-
-[STATUS] Systematic Debugging Protocol: 4-Phase Enforced.
-[STATUS] Clean Architecture: 100% Modular Router-Service-Repo.
-[STATUS] Storage Engine: Shin Drive Autonomous Cloud Snapshot & Zero-Loss DR Validated.
-```
-
----
-
-## [08] PROFESSIONAL INQUIRIES & DIRECT CONTACT
-
-Bạn là **nhà tuyển dụng IT, Founder, CTO hoặc Technical Lead** đang tìm kiếm nhân sự cấp cao có tư duy kiến trúc hệ thống, khả năng thiết kế phân tán chịu tải cao và tự vận hành hạ tầng độc lập? Hãy liên hệ trực tiếp:
+Tôi định hướng phát triển chuyên sâu trong vai trò **Applied AI Engineer / AI Automation Engineer**, tập trung:
+- Ứng dụng nền tảng Full-stack Engineering kết hợp tư duy AI hiện đại để xây dựng các hệ thống AI Agent và quy trình tự động hóa phục vụ trực tiếp cho hoạt động kinh doanh của doanh nghiệp.
+- Tích hợp AI vào CRM, ERP, phần mềm quản trị nội bộ và cơ sở dữ liệu nghiệp vụ với tiêu chí an toàn, có khả năng kiểm soát và đo lường kết quả rõ ràng.
+- Chuyển hóa AI từ công cụ cá nhân thành năng lực thực thi tự hành vững chắc trong sản phẩm thực tế.
 
 ```text
 +---------------------------------------------------------------------------------------------------+
 | DIRECT COMMUNICATION CHANNELS                                                                     |
 +--------------------------+------------------------------------------------------------------------+
-| Primary Email            | kaitouplay@gmail.com                                                   |
-| Personal Website         | https://shin520.net                                                    |
-| Facebook Profile         | https://fb.me/ereiai                                                   |
+| Email                    | tiennv219@gmail.com                                                    |
+| Phone / Zalo             | 0834518640                                                             |
+| Live Technical CV        | https://profile.shin520.net                                            |
+| Personal Hub             | https://shin520.net                                                    |
 | GitHub Profile           | https://github.com/shin254                                             |
+| Live Project (VTK)       | https://vtk.shin520.net                                                |
+| Location                 | Bình Dương / TP. Hồ Chí Minh, Việt Nam                                 |
 +--------------------------+------------------------------------------------------------------------+
 ```
 
 ---
+
 <div align="center">
-  <sub>Designed and engineered autonomously by Crystal Aress (@shin254). Dedicated to architectural excellence.</sub>
+  <sub>Được thiết kế và duy trì bởi <strong>Nguyễn Việt Tiến (@shin254)</strong> — Applied AI Engineer</sub><br/>
+  <sub>Tham khảo bản CV đầy đủ có thể tải PDF & chuyển đổi ngôn ngữ tại <a href="https://profile.shin520.net">profile.shin520.net</a></sub>
 </div>
