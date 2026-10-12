@@ -15,12 +15,6 @@
   <img src="https://img.shields.io/badge/ECOSYSTEM-LINUX_VPS_AUTONOMOUS-f59e0b?style=flat-square" alt="Ecosystem" />
 </p>
 
-<p align="center">
-  <a href="https://profile.shin520.net" target="_blank"><strong>🌐 Xem Live Technical CV tại profile.shin520.net</strong></a>
-</p>
-
----
-
 </div>
 
 <br/>
@@ -37,9 +31,6 @@
 | Primary Stack     | Python (FastAPI), PHP (Laravel), Linux/Ubuntu VPS, LLM Tool Calling, MCP      |
 | Engineering Creed | "Closed-Loop Verification • Strict Context Scoping • Modular by Default"      |
 | Proven Track      | 15+ Independent Commercial Websites | Autonomous VPS AI Ecosystem (38 Skills) |
-| Direct Contacts   | Email: tiennv219@gmail.com | Phone: 0834518640                                |
-| Web Portals       | Portfolio: https://profile.shin520.net | Hub: https://shin520.net                 |
-| Location          | Đồng Hòa, Bình Dương / TP. Hồ Chí Minh, Việt Nam                              |
 +-------------------+-------------------------------------------------------------------------------+
 ```
 
@@ -159,7 +150,7 @@ Tôi là một **Applied AI Engineer** có nền tảng **Full-stack Software En
 - **Agent Studio & Agent Command Hub**: Quản lý cấu hình Agent, system prompt, vai trò và luồng điều phối tác nhân.
 - **Global Harness & Context Infrastructure**: Quản lý quy tắc, kỹ năng, context profiles chuyên biệt theo từng miền nghiệp vụ.
 - **MCP Gateway & Tool Calling Engine**: Kết nối mô hình AI an toàn với file system, shell command, API và database.
-- **Vườn Thiên Không (VTK)**: Nền tảng game & sản phẩm số ứng dụng AI hội thoại và AI tạo hình ảnh (Live: https://vtk.shin520.net).
+- **Vườn Thiên Không (VTK)**: Nền tảng game & sản phẩm số ứng dụng AI hội thoại và AI tạo hình ảnh.
 - **ShinAssistant Portal & Utility Hub**: Cổng trợ lý AI, quản lý tri thức, dự án và tự động hóa vận hành.
 - **CASI & Linux Management Tools**: Bộ công cụ định danh thiết bị, đồng bộ VPS, quản trị website và giám sát tiến trình.
 
@@ -210,7 +201,7 @@ Tôi là một **Applied AI Engineer** có nền tảng **Full-stack Software En
 
 ---
 
-## [07] CAREER OBJECTIVE & DIRECT CONTACT
+## [07] CAREER OBJECTIVE & CONNECT
 
 Tôi định hướng phát triển chuyên sâu trong vai trò **Applied AI Engineer / AI Automation Engineer**, tập trung:
 - Ứng dụng nền tảng Full-stack Engineering kết hợp tư duy AI hiện đại để xây dựng các hệ thống AI Agent và quy trình tự động hóa phục vụ trực tiếp cho hoạt động kinh doanh của doanh nghiệp.
@@ -219,21 +210,15 @@ Tôi định hướng phát triển chuyên sâu trong vai trò **Applied AI Eng
 
 ```text
 +---------------------------------------------------------------------------------------------------+
-| DIRECT COMMUNICATION CHANNELS                                                                     |
+| CONNECT & COLLABORATION                                                                           |
 +--------------------------+------------------------------------------------------------------------+
-| Email                    | tiennv219@gmail.com                                                    |
-| Phone / Zalo             | 0834518640                                                             |
-| Live Technical CV        | https://profile.shin520.net                                            |
-| Personal Hub             | https://shin520.net                                                    |
 | GitHub Profile           | https://github.com/shin254                                             |
-| Live Project (VTK)       | https://vtk.shin520.net                                                |
-| Location                 | Bình Dương / TP. Hồ Chí Minh, Việt Nam                                 |
+| Issues & Discussions     | https://github.com/shin254/shin254/issues                              |
 +--------------------------+------------------------------------------------------------------------+
 ```
 
 ---
 
 <div align="center">
-  <sub>Được thiết kế và duy trì bởi <strong>Nguyễn Việt Tiến (@shin254)</strong> — Applied AI Engineer</sub><br/>
-  <sub>Tham khảo bản CV đầy đủ có thể tải PDF & chuyển đổi ngôn ngữ tại <a href="https://profile.shin520.net">profile.shin520.net</a></sub>
+  <sub>Được thiết kế và duy trì bởi <strong>Nguyễn Việt Tiến (@shin254)</strong> — Applied AI Engineer</sub>
 </div>
