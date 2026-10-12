@@ -1,6 +1,6 @@
 <div align="center">
 
-# NGUYỄN VIỆT TIẾN (@shin254)
+# SHIN (@shin254)
 ### APPLIED AI ENGINEER | AI AGENT & AUTOMATION SYSTEMS
 
 <p align="center">
@@ -25,7 +25,7 @@
 +---------------------------------------------------------------------------------------------------+
 | PROFILE SPECIFICATION                                                                             |
 +-------------------+-------------------------------------------------------------------------------+
-| Full Name         | Nguyễn Việt Tiến (@shin254)                                                   |
+| Display Name      | Shin (@shin254)                                                               |
 | Professional Role | Applied AI Engineer | AI Agent & Automation Systems                           |
 | Core Disciplines  | AI Systems Architecture, Multi-Agent Orchestration, Harness Engineering       |
 | Primary Stack     | Python (FastAPI), PHP (Laravel), Linux/Ubuntu VPS, LLM Tool Calling, MCP      |
@@ -220,5 +220,5 @@ Tôi định hướng phát triển chuyên sâu trong vai trò **Applied AI Eng
 ---
 
 <div align="center">
-  <sub>Được thiết kế và duy trì bởi <strong>Nguyễn Việt Tiến (@shin254)</strong> — Applied AI Engineer</sub>
+  <sub>Được thiết kế và duy trì bởi <strong>Shin (@shin254)</strong> — Applied AI Engineer</sub>
 </div>
